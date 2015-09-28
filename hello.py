@@ -1,1 +1,4 @@
-hello
+greeting(msg) {
+   print msg
+}
+
